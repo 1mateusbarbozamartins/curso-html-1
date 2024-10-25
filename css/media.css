@@ -4,7 +4,7 @@ div#tv-radio {
     width: 900px;
     height: 580px;
     margin: auto;
-    background: url('../_imagens/radio-tv.png') no-repeat;
+    background: url('../imagens/radio-tv.png') no-repeat;
 }
 
 audio#musica {
@@ -22,4 +22,12 @@ video#filme {
     left: 90px;
     top: 90px;
     width: 440px;
+}
+
+video#filme-home {
+    width: 500px;
+}
+
+video#filme-latera {
+    width: 350px;
 }
